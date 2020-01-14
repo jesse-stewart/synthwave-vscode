@@ -1,4 +1,4 @@
-# SynthWave '84 - VS Code theme
+# SynthWave '84 Custom - VS Code theme
 ![Synthwave '84 logo over a cityscape](./banner.png)
 
 Do you remember that endless summer back in '84? Cruising down the ocean-highway with the top down, the wind in our hair and heads buzzing with neon dreams? 
@@ -24,7 +24,7 @@ If you do decide use the glow effect, you do so at your own risk. Bring your Sun
 ### To enable the glow
 Install this [excellent plugin that allows you to load custom CSS and JS](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) from the VS Marketplace. **Please carefully read the ReadMe regarding permission for that extension before continuing with this installation.**
 
-Locate [`synthwave84.css`](https://github.com/robb0wen/synthwave-vscode/blob/master/synthwave84.css) either in this extension's VS code install directory, or [directly from the github repo](https://github.com/robb0wen/synthwave-vscode/blob/master/synthwave84.css). Alternatively, if you want the browser chrome updates without the text glow you can use [`synthwave84-noglow.css`](https://github.com/robb0wen/synthwave-vscode/blob/master/synthwave84-noglow.css).
+Locate [`synthwave84.css`](https://github.com/jesse-stewart/synthwave-vscode/blob/master/synthwave84.css) either in this extension's VS code install directory, or [directly from the github repo](https://github.com/jesse-stewart/synthwave-vscode/blob/master/synthwave84.css). Alternatively, if you want the browser chrome updates without the text glow you can use [`synthwave84-noglow.css`](https://github.com/jesse-stewart/synthwave-vscode/blob/master/synthwave84-noglow.css).
 
 Copy your chosen CSS file to a location on your machine, such as your user folder. Copy the file path and add it to your VS code `settings.json`. On Mac it might look something like the snippet below:
 
@@ -69,7 +69,7 @@ I haven't included a font in this release as I know that it's a very personal pr
 This theme is **very much a work in progress**. I primarily develop in HTML & CSS, JS, React and Elixir so, whilst those language sets should look pretty good, there will likely be issues for other languages. I'll work on adding more support as I go. If you find anything glaringly wrong, raise an issue and I'll try to fix it as soon as I can.
 
 ## Contributing
-I'm really happy to consider any contributions to this theme. Before you make any changes, [please read the contribution guide](https://github.com/robb0wen/synthwave-vscode/blob/master/CONTRIBUTING.md).
+I'm really happy to consider any contributions to this theme. Before you make any changes, [please read the contribution guide](https://github.com/jesse-stewart/synthwave-vscode/blob/master/CONTRIBUTING.md).
 
 ## Thanks
 Lastly, I couldn't have made this if it weren't for the fantastic work of [Sarah Drasner](https://twitter.com/sarah_edo). Her [tutorial on theming for CSS tricks](https://css-tricks.com/creating-a-vs-code-theme/) was a huge help in developing this 🙏
